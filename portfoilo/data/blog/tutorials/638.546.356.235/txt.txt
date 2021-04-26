@@ -1,0 +1,1 @@
+Adding Links iltersinavv Official Website Source 22 April 2021 · 3-10 second read Adding links in HTML and gh-pages is easy. In GitHub Pages's index.md file to add a link use this: [link text](url) in HTML code, we use "href=urlhere".
